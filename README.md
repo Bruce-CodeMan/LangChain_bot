@@ -27,3 +27,6 @@ Please see [streamlit](https://docs.streamlit.io/library/get-started) for full d
 - Getting started
 - Understand how that all works
 
+## 👀 Results Show:
+
+<img src="./images/langchain.png">
