@@ -5,6 +5,14 @@
 -->
 # 🦜️🔗 LangChain + <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
 
+## **Quick Start**
+
+```
+pip install -r requirements.txt
+
+streamlit run main.py
+```
+
 ## 📖 Documentation:
 
 Please see [langchain](https://langchain.readthedocs.io/) for full documentation on :
