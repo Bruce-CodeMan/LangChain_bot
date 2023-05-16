@@ -35,7 +35,7 @@ Please see [streamlit](https://docs.streamlit.io/library/get-started) for full d
 
 Create a new file `app.py` with the following code:
 
-```
+```python
 import streamlit as st
 x = st.slider("Select a value")
 st.write(x, "squared is ", x * x)
